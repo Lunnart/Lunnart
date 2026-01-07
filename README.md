@@ -6,5 +6,5 @@
 ##
 
 <a href="https://github.com/Lunnart">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lunnartt&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lunnart&theme=dark" alt="GitHub Streak" />
 </a>
